@@ -7,6 +7,7 @@ namespace Hello_Jenkins
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello World2!");
             Console.ReadLine();
         }
     }
