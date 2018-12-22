@@ -1,0 +1,10 @@
+C:\Users\BOAN\Documents\Hello Jenkins\Hello Jenkins\Hello Jenkins\bin\Debug\netcoreapp2.1\Hello Jenkins.deps.json
+C:\Users\BOAN\Documents\Hello Jenkins\Hello Jenkins\Hello Jenkins\bin\Debug\netcoreapp2.1\Hello Jenkins.runtimeconfig.json
+C:\Users\BOAN\Documents\Hello Jenkins\Hello Jenkins\Hello Jenkins\bin\Debug\netcoreapp2.1\Hello Jenkins.runtimeconfig.dev.json
+C:\Users\BOAN\Documents\Hello Jenkins\Hello Jenkins\Hello Jenkins\bin\Debug\netcoreapp2.1\Hello Jenkins.dll
+C:\Users\BOAN\Documents\Hello Jenkins\Hello Jenkins\Hello Jenkins\bin\Debug\netcoreapp2.1\Hello Jenkins.pdb
+C:\Users\BOAN\Documents\Hello Jenkins\Hello Jenkins\Hello Jenkins\obj\Debug\netcoreapp2.1\Hello Jenkins.csproj.CoreCompileInputs.cache
+C:\Users\BOAN\Documents\Hello Jenkins\Hello Jenkins\Hello Jenkins\obj\Debug\netcoreapp2.1\Hello Jenkins.AssemblyInfoInputs.cache
+C:\Users\BOAN\Documents\Hello Jenkins\Hello Jenkins\Hello Jenkins\obj\Debug\netcoreapp2.1\Hello Jenkins.AssemblyInfo.cs
+C:\Users\BOAN\Documents\Hello Jenkins\Hello Jenkins\Hello Jenkins\obj\Debug\netcoreapp2.1\Hello Jenkins.dll
+C:\Users\BOAN\Documents\Hello Jenkins\Hello Jenkins\Hello Jenkins\obj\Debug\netcoreapp2.1\Hello Jenkins.pdb
